@@ -6,6 +6,9 @@ Despite exploring what felt like every possible suggestion,
 my attempts either resulted in overfitting the model or failing to make significant progress.
 Silver lining: The model isn't overfitted. 
 
+The Jupyter notebook includes a graph for accuracy,
+while the other files contain additional graphs for other models as well.
+
 Taking the idea from: https://sander.ai/2014/08/05/spotify-cnns.html
 
 My PC can't run that many epocs, so you might want to change that
