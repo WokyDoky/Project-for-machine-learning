@@ -1,5 +1,11 @@
 # CNN Machine genre sorter
 
+## Update after in class presentation: 
+I struggled to achieve validation accuracy higher than 70%.
+Despite exploring what felt like every possible suggestion,
+my attempts either resulted in overfitting the model or failing to make significant progress.
+Silver lining: The model isn't overfitted. 
+
 Taking the idea from: https://sander.ai/2014/08/05/spotify-cnns.html
 
 My PC can't run that many epocs, so you might want to change that
